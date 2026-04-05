@@ -5,4 +5,4 @@ A mini interpreter project for the ZARA scripting language.
 ## Team Members
 - Ayush Yadav
 - Kuldeep Saraswat
-- Rahul Verma
+- Rahul Kumar Verma
