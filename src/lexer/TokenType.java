@@ -17,6 +17,8 @@ public enum TokenType {
    EQUAL_EQUAL,
    EQUAL,
    COLON,
+   LPAREN,
+   RPAREN,
    NEWLINE,
    INDENT,
    DEDENT,
