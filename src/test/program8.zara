@@ -1,0 +1,5 @@
+set name = "Zara"
+show name
+show "Hello from Zara Interpreter!"
+set result = (10 + 20) / (2 + 3)
+show result

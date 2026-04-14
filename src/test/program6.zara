@@ -1,0 +1,4 @@
+set counter = 0
+loop 5:
+    set counter = counter + 1
+show counter
