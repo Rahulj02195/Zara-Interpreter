@@ -1,0 +1,6 @@
+set length = 8
+set width = 5
+set area = length * width
+set perimeter = 2 * (length + width)
+show area
+show perimeter

@@ -1,0 +1,6 @@
+set x = -(3 + 2)
+show x
+set y = (-5) * 3
+show y
+set z = -(10 - 4) * 2
+show z

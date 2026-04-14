@@ -1,0 +1,7 @@
+set x = 15
+when x > 10:
+    show "x is greater than 10"
+
+set y = 3
+when y < 5:
+    show "y is less than 5"
