@@ -97,6 +97,7 @@ src/
 javac -d bin $(find src -name "*.java")
 ```
 #### OR
+#### powershell
 
 ```powershell
 javac -d bin (Get-ChildItem -Recurse -Filter "*.java" src | % { $_.FullName })
